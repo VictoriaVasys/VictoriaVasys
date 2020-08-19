@@ -18,14 +18,9 @@ My name is Victoria Vasys and I'm a front-end/UI software developer. I'm from Wi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictoriaVasys&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ff7474&bg_color=232323" alt="Victoria's GitHub Stats" />
 </a>
 
-<a href="https://github.com/VictoriaVasys/wx-weenie">
+<!-- <a href="https://github.com/VictoriaVasys/wx-weenie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaVasys&repo=wx-weenie&title_color=ffffff&text_color=c9cacc&icon_color=ff7474&bg_color=232323" />
-</a>
-
-
-<a href="https://github.com/mineral-ui/mineral-ui">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaVasys&repo=mineral-ui&title_color=ffffff&text_color=c9cacc&icon_color=ff7474&bg_color=232323" />
-</a>   
+</a> -->
 
 <!-- links to social media icons -->
 <!-- [![Twitter][1.2]][1], [![LinkedIn][2.2]][2] -->
