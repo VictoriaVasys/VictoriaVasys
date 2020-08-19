@@ -3,11 +3,11 @@
 My name is Victoria Vasys and I'm a front-end/UI software developer. I'm from Wisconsin, living in Colorado, and currently working at Rally Software. You can find me on [my website](1), [LinkedIn](2), [Twitter](3), and [Medium](4).
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff7474)
+![](https://img.shields.io/badge/OS-macOS-catalina--informational?style=flat&logo=linux&logoColor=white&color=ff7474)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=ff7474)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ff7474)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=go&logoColor=white&color=ff7474)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ff7474)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=ff7474)
 
 ## &#x1f4c8; GitHub Stats
 
