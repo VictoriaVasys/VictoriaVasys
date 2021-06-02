@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/victoriavasys/victoriavasys/master/victoria-vasys-header.png "Header")](https://victoriavasys.com/)
 
-My name is Victoria Vasys and I'm a front-end/UI software developer. I'm from Wisconsin, living in Colorado, and currently working at Rally Software. You can find me on [my website](1), [LinkedIn](2), [Twitter](3), and [Medium](4).
+My name is Victoria Vasys and I'm a front-end/UI software developer. I'm from Wisconsin, living in Colorado, and currently working at Rally Software. You can find me on [my website](https://www.victoriavasys.com/), [LinkedIn](https://www.linkedin.com/in/victoriavasys/), [Twitter](https://twitter.com/victoriavasys), and [Medium](https://medium.com/@victoria.vasys).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-catalina--informational?style=flat&logo=linux&logoColor=white&color=ff7474)
@@ -32,12 +32,7 @@ My name is Victoria Vasys and I'm a front-end/UI software developer. I'm from Wi
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-<!-- links to your social media accounts -->
 
-[1]: http://victoriavasys.com/
-[2]: https://www.linkedin.com/in/victoriavasys/
-[3]: https://twitter.com/victoriavasys
-[4]: https://medium.com/@victoria.vasys
 <!--
 **VictoriaVasys/VictoriaVasys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
